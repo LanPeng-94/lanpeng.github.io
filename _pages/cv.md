@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Please contact me for a full curriculum vitae.
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Physics-informed neural networks and DeepONet models for geotechnical engineering
+- Unsaturated infiltration, consolidation, and slope stability analysis
+- Bayesian inversion and uncertainty quantification of soil hydraulic parameters
+- Reliability assessment and risk evaluation of slopes, landslides, tunnels, and dams
+- Intelligent monitoring, diagnosis, and digital-twin modeling for geotechnical infrastructure
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Jiangxi Provincial Natural Science Foundation Youth Project, Principal Investigator, 2025-2027.
+- National Postdoctoral Researcher Program, Principal Investigator, 2025-2027.
+- Open Research Fund of the Key Laboratory of Water Engineering Construction and Safety, Ministry of Water Resources, Principal Investigator, 2026-2027.
+- Fundamental Research Funds for the Central Universities, Principal Investigator, 2022-2023.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
